@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return GetMaterialApp(
-      title: 'Project Management',
+      title: 'Faraday',
       debugShowCheckedModeBanner: false,
       theme: AppTheme.basic,
       initialRoute: AppPages.initial,
